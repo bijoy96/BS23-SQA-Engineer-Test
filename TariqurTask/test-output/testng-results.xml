@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="93406" started-at="2021-05-22T07:46:05Z" finished-at="2021-05-22T07:47:38Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="93406" started-at="2021-05-22T07:46:05Z" finished-at="2021-05-22T07:47:38Z">
+      <class name="BS23.TariqurTask.TestCases">
+        <test-method status="PASS" signature="before_test()[pri:0, instance:BS23.TariqurTask.TestCases@1890516e]" name="before_test" is-config="true" duration-ms="7468" started-at="2021-05-22T13:46:05Z" finished-at="2021-05-22T13:46:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before_test -->
+        <test-method status="PASS" signature="reg_Positive()[pri:1, instance:BS23.TariqurTask.TestCases@1890516e]" name="reg_Positive" duration-ms="14008" started-at="2021-05-22T13:46:12Z" finished-at="2021-05-22T13:46:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reg_Positive -->
+        <test-method status="PASS" signature="reg2nd_Positive()[pri:2, instance:BS23.TariqurTask.TestCases@1890516e]" name="reg2nd_Positive" duration-ms="10518" started-at="2021-05-22T13:46:26Z" finished-at="2021-05-22T13:46:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reg2nd_Positive -->
+        <test-method status="PASS" signature="purchase()[pri:3, instance:BS23.TariqurTask.TestCases@1890516e]" name="purchase" duration-ms="61324" started-at="2021-05-22T13:46:37Z" finished-at="2021-05-22T13:47:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- purchase -->
+        <test-method status="PASS" signature="after_test()[pri:0, instance:BS23.TariqurTask.TestCases@1890516e]" name="after_test" is-config="true" duration-ms="63" started-at="2021-05-22T13:47:38Z" finished-at="2021-05-22T13:47:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after_test -->
+      </class> <!-- BS23.TariqurTask.TestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
